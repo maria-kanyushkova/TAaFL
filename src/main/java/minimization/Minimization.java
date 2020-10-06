@@ -13,7 +13,7 @@ import java.io.IOException;
 import java.util.Scanner;
 
 public class Minimization {
-    private static final String PATH_TO_OUTPUT = "output/minimization";
+    private static final String PATH_TO_OUTPUT = "output";
 
     private static GraphPrinter graphPrinter = new GraphPrinter();
     private static LinkSources linkSources = new LinkSources();
